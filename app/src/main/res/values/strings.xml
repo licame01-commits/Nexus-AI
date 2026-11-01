@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Nexus AI</string>
+    <string name="nexus_subtitle">Tutor Universal &amp; Asistente Multidisciplinario</string>
+    <string name="action_new_chat">Nuevo Chat</string>
+    <string name="recent_chats_title">Chats Recientes</string>
+    <string name="empty_recent_chats">No hay chats anteriores guardados.</string>
+    <string name="clear_history">Limpiar Historial</string>
+    <string name="level_school">Escuela / Niños</string>
+    <string name="level_highschool">Colegio / Secundaria</string>
+    <string name="level_university">Universidad / Adultos</string>
+    <string name="subject_all">Todas</string>
+    <string name="subject_math">Matemáticas</string>
+    <string name="subject_robotics">Robótica</string>
+    <string name="subject_coding">Computación</string>
+    <string name="subject_language">Lenguaje</string>
+    <string name="subject_history">Historia</string>
+    <string name="subject_science">Ciencias Naturales</string>
+    <string name="subject_social">Estudios Sociales</string>
+    <string name="subject_pe">Educación Física</string>
+    <string name="subject_arts">ECA (Arte y Cultura)</string>
+    <string name="subject_reading">Animación a la Lectura</string>
+</resources>
